@@ -1,0 +1,94 @@
+body
+{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	/*height: 3500px*/
+}
+
+
+.header,
+.footer
+{
+	background: #000;
+	height: 80px;
+	color: #FFF;
+	margin-bottom: 50px;
+	/*line-height: 80px*/
+}
+.footer
+{
+	margin-top: 30px;
+	margin-bottom: 0
+}
+.header .header-title,
+.footer .footer-title
+{
+	font-size: 35px;
+	margin: 0;
+	padding: 0;
+	/*line-height: 80px*/
+	padding-top: 10px
+}
+.footer .footer-title
+{
+	font-size: 25px;
+	padding-top: 20px
+}
+.hotel-content .hotel-info
+{
+	margin-bottom: 20px
+}
+.hotel-content .hotel-info img
+{
+  width: 100%;
+  border-radius: 20px;
+  height: 255px;
+  border: 1px solid #CCC;
+  background: #FFF;
+  padding: 2px
+}
+.hotel-content .hotel-info h2
+{
+	font-size: 30px;
+	margin-top: 10px
+}
+
+.hotel-content .hotel-info span
+{
+   font-size: 17px;
+   margin-bottom: 3px;
+   display: inline-block;
+}
+
+hr
+{
+	width: 70%;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	border: 1px solid #EEE
+}
+
+.information label
+{
+	display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
